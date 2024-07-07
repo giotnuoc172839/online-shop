@@ -1,0 +1,3 @@
+Cường*Camera xấu*1*05/07/2024 2:02:00 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\1.png*2
+Lan*OK*0*05/07/2024 9:36:46 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*4
+Giang*Tốt*0*05/07/2024 9:45:14 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*5

@@ -1,0 +1,2 @@
+asprite 2 1.jpg
+asprite 2 2.jpg

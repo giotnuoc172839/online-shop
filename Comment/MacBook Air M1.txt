@@ -1,0 +1,3 @@
+Lan*OK*0*05/07/2024 2:03:38 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*4
+Như*Tệ*0*05/07/2024 9:40:31 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*1
+Nhi*OK*0*05/07/2024 10:26:01 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*5

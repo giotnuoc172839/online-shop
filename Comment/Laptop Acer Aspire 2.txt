@@ -1,0 +1,4 @@
+Phi*Rất ngon*1*05/07/2024 2:04:00 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\1.png*5
+Như*Tệ*0*05/07/2024 9:41:47 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*1
+Lan*Ok*0*05/07/2024 10:26:27 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*5
+Giang*Tốt*0*05/07/2024 10:26:39 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*5

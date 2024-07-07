@@ -1,0 +1,3 @@
+Lan*Sản phẩm tốt*0*05/07/2024 1:26:49 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*5
+Minh Đức*Sản phẩm xài ok*1*05/07/2024 1:27:14 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\1.png*5
+Oanh*Màn hình nhỏ*0*05/07/2024 1:27:29 SA*D:\Lap trinh C#\FirstApp\FirstApp\bin\Debug\Chat\ava\4.png*3

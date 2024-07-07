@@ -1,0 +1,6 @@
+0*Samsung*
+1*Apple*
+2*Xiaomi*
+3*Lenovo*
+4*Acer*
+5*Asus*
